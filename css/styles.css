@@ -176,12 +176,14 @@ nav {
 .link:hover,
 .link:focus {
    color: var(--hoover-focus);
+   cursor: pointer;
 }
 
 .button:hover,
 .button:focus {
    background: var(--hoover-focus);
    color: var(--focus-txt);
+   cursor: pointer;
 }
 
 
