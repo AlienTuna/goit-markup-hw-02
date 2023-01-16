@@ -173,6 +173,7 @@ nav {
    color: var(--second-light-bg)
 }
 
+/* FOCUS */
 .link:hover,
 .link:focus {
    color: var(--hoover-focus);
